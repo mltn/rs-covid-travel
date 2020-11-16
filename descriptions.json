@@ -335,11 +335,7 @@ Državljani Srbije ne mogu da uđu u Zimbabve osim lica sa regulisanim boravkom.
     description: `
 Državljani Srbije ne mogu da uđu u Izrael osim lica koja imaju regulisan boravak uz prethodnu najavu preko Ambasade Izraela u Beogradu. Takođe, u izuzetnim slučajevima (npr. urgentno lečenje), može se od Ministarstva spoljnih poslova Izraela zatražiti dozvola za ulazak u zemlju.
 Sve osobe koje ulaze u Izrael i izlaze iz Izraela (uključujući i izraelske državljane) moraju da popune onlajn obrazac 24 sata pred let. Obrazac se može naći na internet prezentaciji Vlade Izraela. Od 8. novembra svi putnici koji dolaze u Izrael iz Srbije, bez obzira na državljanstvo, moraju provesti 14 dana u kućnoj izolaciji.
-`
-}, {
-    country: "Zbog specifičnih uslova, Izrael nije zemlja tranzita za strane državljane",
-    description: `
-
+Zbog specifičnih uslova, Izrael nije zemlja tranzita za strane državljane.
 `
 }, {
     country: "INDIJA",
