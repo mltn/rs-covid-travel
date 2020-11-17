@@ -831,7 +831,7 @@ var descriptions = [
     "country": "SENT VINSENT I GRENADINI",
     "description": "\nDržavljani Srbije mogu da uđu u Sent Vinsent i Grenadine uz obavezu da pre puta popune i podnesu formular koji se može naći na http://health.gov.vc/health/index.php/covid-19-protocols-documents?fbclid=IwAR17F8szBN_xBI0-rwiJpE7qKD0YX-1LxoFAqlpmaLgeMzSlE_EfCGKQfwk. Putnici koji imaju negativan PCR test, ne stariji od 48 sati ili negativan test na antitela, ne stariji od 5 dana, ne moraju ići u karantin. Putnici bez testa, moraće da isti urade po dolasku i provedu 24 časa u karantinu do dobijanja rezultata.\n\n",
     "countryen": "SAINT VINCENT AND THE GRENADINES",
-    "flagFileName": "flag-of-St-Vincent-The-Grenadines.png"
+    "flagFileName": "flag-of-St-Vincent-the-Grenadines.png"
   },
   {
     "country": "SENT KITS I NEVIS",
