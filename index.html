@@ -43,6 +43,9 @@
 		justify-content: center;
 		align-items: center;
 	}
+	.box .description {
+		display: none;
+	}
 	.flag {
 		width: 100%;
 		border: 1px solid black;
@@ -59,9 +62,16 @@
       boxesHtml += `<div class="box">
 	    <img class="flag" src="flags/` + x.flagFileName + `">
 		<div class="country">` + x.country + `</div>
+		<div class="description">` + x.description + `</div>
 	  </div>`
     });
     document.body.innerHTML = headerHtml + `<div class="boxes">` + boxesHtml + `</div>`;
+	[].forEach.call(document.getElementsByClassName("box"), box => {
+		box.addEventListener("click", () => {
+			box.style.maxWidth = "400px";
+			box.getElementsByClassName("description")[0].style.display = "block";
+		});
+	});
   });
 </script>
 </body>
