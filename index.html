@@ -1,6 +1,23 @@
 <head>
   <style>
-    body {
+	body {
+		display: flex;
+		flex-direction: column;
+	}
+	header {
+		display: flex;
+		min-height: 100px;
+		text-align: center;
+		backgound-color: lightgreen;
+		justify-content: center;
+		align-items: center;
+	}
+	header input {
+		width: 70%;
+		font-size: 24px;
+		text-align: center;
+	}
+    .boxes {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -12,11 +29,22 @@
       padding: 10px;
       margin: 10px;
       border: 1px solid black;
-      max-width: 150px;
-      min-width: 150px;
+      max-width: 100px;
+      min-width: 100px;
+	  font-size: 10px;
+	  display: flex;
+	  flex-direction: column;
+	  justify-content: space-between;
+	  align-items: center;
     }
+	.box .country {
+		height: 25px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 	.flag {
-		width: 90%;
+		width: 100%;
 		border: 1px solid black;
 	}
   </style>
@@ -25,12 +53,15 @@
 <script src="descriptions.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", () => {
-    let html = "";
+	let headerHtml = `<header><input type="text"/></header>`;
+    let boxesHtml = "";
     descriptions.forEach(x => {
-      html += `<div class="box">
-	    <img class="flag" src="flags/` + x.flagFileName + `"><br>` + x.country + `</div>`
+      boxesHtml += `<div class="box">
+	    <img class="flag" src="flags/` + x.flagFileName + `">
+		<div class="country">` + x.country + `</div>
+	  </div>`
     });
-    document.body.innerHTML = html;
+    document.body.innerHTML = headerHtml + `<div class="boxes">` + boxesHtml + `</div>`;
   });
 </script>
 </body>
