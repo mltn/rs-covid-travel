@@ -1,0 +1,31 @@
+<head>
+  <style>
+    body {
+      height: 100vh;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+    }
+    .box {
+      padding: 10px;
+      margin: 10px;
+      border: 1px solid black;
+      max-width: 300px;
+      min-width: 200px
+    }
+  </style>
+</head>
+<body>
+<script src="descriptions.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    let html = "";
+    descriptions.forEach(x => {
+      html += "<div class=\"box\">" + "hello" + "</div>"
+    });
+    document.body.innerHTML = html;
+  });
+</script>
+</body>
