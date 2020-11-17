@@ -1,7 +1,6 @@
 <head>
   <style>
     body {
-      height: 100vh;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -9,12 +8,17 @@
       align-content: center;
     }
     .box {
+	  text-align: center;
       padding: 10px;
       margin: 10px;
       border: 1px solid black;
-      max-width: 300px;
-      min-width: 200px
+      max-width: 150px;
+      min-width: 150px;
     }
+	.flag {
+		width: 90%;
+		border: 1px solid black;
+	}
   </style>
 </head>
 <body>
@@ -23,7 +27,8 @@
   window.addEventListener("DOMContentLoaded", () => {
     let html = "";
     descriptions.forEach(x => {
-      html += "<div class=\"box\">" + "hello" + "</div>"
+      html += `<div class="box">
+	    <img class="flag" src="flags/` + x.flagFileName + `"><br>` + x.country + `</div>`
     });
     document.body.innerHTML = html;
   });
