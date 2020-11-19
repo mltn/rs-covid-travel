@@ -1,4 +1,4 @@
-(ažurirano 16.11.2020.)
+(ažurirano 19.11.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -74,8 +74,7 @@ Državljani Srbije ne mogu da uđu u Boliviju.
 Bolivija ne dozvoljava ulazak strancima u Boliviju, osim u veoma izuzetnim slučajevima za koje se predviđa rigorozna procedura. Međunarodni letovi su suspendovani.
 
 BOSNA I HERCEGOVINA
-Državljani Srbije mogu bez ograničenja iz Srbije da uđu u BiH ili da tranzitiraju.
-Od 12.septembra stranim državljanima je potreban negativan PCR test. Izuzetak su državljani Srbije, Hrvatske i Crne Gore koji mogu da uđu u BiH bez testa kada u BiH ulaze direktno iz zemlje čiji su državljani, što se odnosi i na maloletnu decu i supružnike koji su državljani drugih zemalja.
+Državljani Srbije mogu bez ograničenja sa teritorije Srbije da uđu u BiH ili da tranzitiraju. Ukoliko državljani Srbije ulaze u BiH iz drugih zemalja, neophodan je negativan PCR test, ne stariji od 48 sati.
 
 BOCVANA
 Državljani Srbije ne mogu da uđu u Bocvanu osim lica sa regulisanim boravkom. Obavezan je 14-dnevni karantin. Tranzit je moguć iz susednih država ali isključivo u slučaju organizovanog repatriacinog leta, odnosno napuštanja zemlje (i regiona), uz prezentovanje negativnog testa, ne starijeg od 72 sata.
@@ -295,12 +294,11 @@ KOMORI
 Državljani Srbije ne mogu da uđu u zemlju. Granice i aerodromi su zatvoreni.
 
 KONGO
-Državljani Srbije mogu uz važeću vizu bez ograničenja da uđu ili tranzitiraju u R. Kongo. Nije potrebno testiranje. U slučaju simptoma bolesti treba se obratiti najbližoj medicinskoj ustanovi.
-Dozvoljava se ulazak svim stranim državljanima koji imaju važeću vizu ili stalni boravak da uđu u R. Kongo.
+Državljani Srbije sa stalnim boravkom ili važećom vizom mogu da uđu u Kongo ili tranzitiraju. Na međunarodnom aerodromu u Brazavilu uvedena su obavezna testiranja prilikom dolaska i odlaska. Takođe, obavezna je samoizolacija u periodu od 14 dana. Test na COVID–19 se naplaćuje i cena iznosi 30 evra.
 
 KONGO, DR
-Državljani Srbije mogu uz važeću vizu bez ograničenja da uđu ili tranzitiraju u DR Kongo. Nije potrebno testiranje. U slučaju simptoma bolesti treba se obratiti najbližoj medicinskoj ustanovi.
-Dozvoljava se ulazak svim stranim državljanima koji imaju važeću vizu ili stalni boravak da uđu u DR Kongo.
+Državljani Srbije sa važećom vizom mogu da uđu u DR Kongo ili tranzitiraju. Neophodan je negativan PCR test za sva lica starija od 11 godina, ne stariji od sedam dana. Po dolasku na aerodrom u Kinšasi putnici se dodatno povdvrgavaju testiranju o trošku putnika (45 dolara). Takođe, pre dolaska je potrebno registrovati se preko sledećeg sajta: http://www.inrbcovid.com/.
+Prilikom izlaksa iz DR Kongo, svi putnici stariji od 11 godina su u obavezi da poseduju dokaz iz laboratorije ne stariji od 3 dana, koju je odobrilo Ministrastvo zdravlja, da su negativni na COVID–19. Cena testa prilikom odlaska iznosi 30 dolara.
 
 KOREJA, Republika
 Državljanima Srbije je od 13. aprila potrebna viza za ulaz u R. Koreju. Obavezan je karantin od 14 dana. Za državljane Srbije koji tranzitiraju preko aerodroma u R. Koreji nije potrebna viza, niti test.
@@ -667,8 +665,7 @@ Za lica u tranzitu nije poterban test ali je neophodan dokaz da je odobren ulaza
 Državljani zemalja EU i Šengena mogu ulaziti u Hrvatsku.
 
 CENTRALNOAFRIČKA REPUBLIKA
-Državljani Srbije mogu uz važeću vizu bez ograničenja da uđu ili tranzitiraju u Centralnoafričku Republiku. Nije potrebno testiranje. U slučaju simptoma bolesti treba se obratiti najbližoj medicinskoj ustanovi.
-Dozvoljava se ulazak svim stranim državljanima koji imaju važeću vizu ili stalni boravak da uđu u CAR.
+Državljani Srbije mogu sa važećom vizom da uđu u Centralnoafričku Republiku ili tranzitiraju. Nije potrebno testiranje.
 
 CRNA GORA
 Državljani Srbije mogu ući u Crnu Goru uz posedovanje jednog od sledećih testova: (1) negativan PCR test, ne stariji od 72 sata, ili (2) pozitivan rezultat serološkog testa - antitela klase IgG, ne stariji od 30 dana, ili (3) negativan rezultat serološkog testa na atitela klase IgM (ELISA), ne stariji od 72 sata. Test mora da bude izdat od strane registrovane laboratorije. Takođe, pored jednog od navedena tri testa, neophodno je da lice u periodu od 15 dana pre ulaska u Crnu Goru nije boravilo u nekoj od država iz kojih nije dozvoljen ulazak u Crnu Goru. Obaveza posedovanja testa ne odnosi se na decu do navršene pete godine života. Detalji u vezi sa ulaskom stranih državljana u Crnu Goru se mogu naći u sledećem linku: http://www.gov.me/naslovna/mjere_i_preporuke/
