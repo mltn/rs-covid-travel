@@ -1,4 +1,4 @@
-(ažurirano 19.11.2020.)
+(ažurirano 20.11.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -644,8 +644,9 @@ FIDžI
 Državljani Srbije mogu da uđu u Fidzi. Neophodan je negativan PCR test, ne stariji od 48 sati. Takođe, obavezan je karantin od 14 dana.
 
 FRANCUSKA
-Državljanima Srbije nije dozvoljen ulazak na teritoriju Francuske, osim ukoliko imaju regulisan boravak. Tranzit preko aerodroma u Francuskoj je moguć samo ukoliko ne podrazumeva napuštanje međunarodne zone (dozvoljeni boravak u zoni tranzita je 24 sata). Za putnike koji dolaze iz Srbije obavezan je negativan PCR test ne stariji od 72 sata (osim za decu mlađu od 11 godina). Ukoliko putnik nema negativan test, obavezno je testiranje na aerodromu.
-Ne dozvoljava se ulazak stranim državljanima koji su u prethodnih 14 dana boravili u Srbiji ili u nekoj od zemalja pogođenih zaraznom bolešću COVID 19 (sve zemlje osim Alžira, Australije, Kanade, Gruzije, Japana, Maroka, Novog Zelanda, Ruande, Južne Koreje, Tajlanda, Tunisa i Urugvaja). Ovo se ne odnosi na putnike koji imaju regulisan boravak u Francuskoj, hitne slučajeve i putovanja humanitarnog karaktera. Za putnike koji dolaze iz Srbije i sledećih petnaest zemalja (Alžir, Bahrein, Brazil, Indija, Izrael, Južnoafrička Republika, Kuvajt, Katar, Madagaskar, Oman, Panama, Peru, SAD, Turska i UAE) je obavezan negativan PCR test, ne stariji od 72 sata. Za putnike koji nemaju negativan test, biće obavezno testiranje na aerodromu.
+Državljanima Srbije koji nemaju regulisan boravak u Francuskoj ili u nekoj od zemalja EU, nije dozvoljen ulazak na teritoriju Francuske. Tranzit preko aerodroma u Francuskoj je moguć samo ukoliko ne podrazumeva napuštanje međunarodne zone i ukoliko ne traje duže od 24 sata. Za putnike koji dolaze iz Srbije, obavezan je negativan PCR test ne stariji od 72 sata (osim za decu mlađu od 11 godina). Ukoliko putnik nema negativan PCR test, predviđeno je obavezno testiranje na aerodromu pre ulaska u Francusku.
+Izuzetno može biti dozvoljen ulazak za putnike iz Srbije koji dolaze u Francusku radi vršenja osnovne profesionalne aktivnosti, studija, nastavne aktivnosti ili iz medicinskih razloga. Za dobijanje specijalne dozvole za ulazak u Francusku, nadležna je Ambasada Francuske u Beogradu.
+Za više informacija o aktuelnom režimu ulaska u Francusku, posetite internet stranicu Ambasade Srbije u Parizu: http://www.paris.mfa.gov.rs/
 
 HAITI
 Državljani Srbije mogu da uđu u Republiku Haiti. Neophodan je negativan test, ne stariji od 72 časa. Kopnena granica sa Dominikanskom Republikom je zatvorena.
