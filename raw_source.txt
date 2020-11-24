@@ -1,4 +1,4 @@
-(ažurirano 20.11.2020.)
+(ažurirano 24.11.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -222,7 +222,7 @@ Državljani Srbije mogu da uđu na Jamajku. Pre putovanja, neophodno je prijavit
 
 JAPAN
 Državljanima Srbije koji su prethodnih 14 dana boravili u Srbiji ili tranzitirali kroz Srbiju nije dozvoljen ulazak. Od navedenog su izuzeta lica koja imaju regulisan boravak u Japanu, pod uslovom da poseduju dozvolu za ponovni ulazak (re-entry permit) i da prezentuju potvrdu na formatu koji predviđaju japanski organi da su 72 pre leta bili negativno testirani na korona virus (format potvrde dostupan je na prezentaciji Ministarstva spoljnih poslova Japana https://www.mofa.go.jp/ca/fna/page25e_000334.html).
-Stranim državljanima koji su prethodnih 14 dana boravili ili tranzitirali u zemljama pogođenim zaraznom bolešću COVID-19 nije dozvoljen ulazak. Na listi je 152 zemalja, uključujući Srbiju.
+Stranim državljanima koji su prethodnih 14 dana boravili ili tranzitirali u zemljama pogođenim zaraznom bolešću COVID-19 nije dozvoljen ulazak. Na listi su 152 zemalje, uključujući Srbiju.
 
 JEMEN
 Državljani Srbije ne mogu da uđu u zemlju.
@@ -263,9 +263,9 @@ Kazne za nepoštovanje mera kreću se od usmenih upozorenja do novčane kazne u 
 Tranzit je dozvoljen uz poštovanje viznog režima bez izlaska iz tranzitnog prostora.
 
 KATAR
-Državljani Srbije mogu da uđu u Katar uz prethodno dobijenu dozvolu preko „Qatar Portal". Po dolasku, obavezno je testiranje na aerodomu „Hamad" nakon čega sledi jednonedeljni karantin u hotelu, pa potom jednonedeljni kućni karantin - odluka se primenjuje od 20. novembra 2020. Do tada državljani Srbije idu samo u kućnu izolaciju u trajanju od 7 dana. Majke sa decom do 5 godina, deca do te dobi i hronični bolesnici idu u kućni karantin.
+Državljani Srbije mogu da uđu u Katar uz prethodno dobijenu dozvolu preko „Qatar Portal". Po dolasku, obavezno je testiranje na aerodomu „Hamad" nakon čega sledi jednonedeljni karantin u hotelu, pa potom jednonedeljni kućni karantin. Majke sa decom do 5 godina, deca do te dobi i hronični bolesnici idu samo u kućni karantin.
 Državljani Srbije mogu u Katar ući bez karantina, ako putuju preko Istanbula, ali je neophodno da pribave negativan test u jednoj od ovlašćenih turskih laboratorija, kao i da provedu u Istanbulu minimalno nedelju dana. Labaratorije su Istanbul University of Health Science-Sultan Suleyman Legal Hospital, Jarrah Pasha Hospital, Pashak Sehir Cham and Sakura Hospital, Kartal Lotfi Kirdar Hospital.
-Svi putnici moraju imati instaliranu aplikaciju „Ehteraz".
+Svi putnici moraju imati instaliranu aplikaciju „EHTERAZ".
 Tranzit preko aerodroma Hamad je dozvoljen.
 
 KENIJA
@@ -679,8 +679,10 @@ Državljni Srbije ne mogu da uđu u Češku Republiku osim lica sa regulisanim b
 Sva lica koja su u prethodnih 14 dana provela više od 12 sati u nekoj od zemalja koje nisu na listi zemalja sa niskim rizikom od COVID-19, dužna su da se pre ulaska u Češku, prijave nadležnom regionalnom zavodu za javno zdravlje, slanjem popunjenog formulara koji se može preuzeti putem sledećeg linka https://plf.uzis.cz/. Kopiju navedenog formulara dužna su da prezentuju prilikom kontrole na granici, kao i sve vreme boravka u Češkoj. U roku od 5 dana od dana ulaska u Češku dužna su da se testiraju i ograniče svoje kretanje.
 
 ČILE
-Državljani Srbije ne mogu ući u Čile. Izuzetak su lica koja imaju regulisan boravak; supružnici, roditelji ili deca osoba koje imaju stalni boravak ili državljanstvo, nosioci diplomatskih i službenih pasoša.
-Obavezan je karantin od 14 dana. Ako je 72 sata pre ulaska u Čile urađen PCR test, koji je negativan, karantin nije obavezujući, već se vrši samo odgovarajući nadzor. Takođe se zahteva prethodno slanje elektronskim putem tzv. izjave o odgovornosti da je putnik upoznat sa svim sanitarnim propisima i procedurama u Čileu.
+Državljani Srbije mogu ući u Čile.
+Strani državljani koji nemaju stalni boravak u Čileu mogu ući u zemlju vazdušnim putem sa sletanjem isključivo na međunarodni aerodrom Arturo Merino Benitez u blizini Santjaga. Uslov za ukrcavanje u avion je negativan PCR test, ne stariji od 72 sata. Obavezno je zdravstveno osiguranje kojim je pokriveno i lečenje od COVID-19. Prilikom sletanja u Čile popunjavaju se odgovarajući formulari, uključujući tzv. formular o praćenju kretanja, čiji sadržaj se može naći na sledećoj veb stranici
+https://www.c19.cl/formularios.html. Strani državljani koji dolaze iz zemalja koje se, u datom trenutku, nalaze u kategoriji „Community Transmission" na listi Svetske zdravstvene organizacije (https://covid19.who.int/table), podležu obaveznom karantinu od 14 dana.
+Državljani Čilea kao i strani državljani koji imaju stalni boravak podležu obaveznom karantinu od 14 dana, samo ukoliko nisu uradili testiranje pre puta ili po dolasku u Čile.
 
 DžIBUTI
 Državljani Srbije mogu da uđu u Džibuti. Neophodan je negativan PCR test. Po dolasku u Džibuti radi se i brzi test.
