@@ -1,4 +1,4 @@
-(ažurirano 24.11.2020.)
+(ažurirano 26.11.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -113,7 +113,7 @@ GAMBIJA
 Državljani Srbije ne mogu da uđu u Gambiju. Međunarodni letovi su suspendovani.
 
 GANA
-Državljani Srbije mogu da uđu u Ganu. Neophodan je negativan PCR test, ne stariji od 72 sata. Putnici se, po dolasku na međunarodni aerodrom ,,Kotoka" u Akri, podvrgavaju ponovnom testiranju o svom trošku Cena testa iznosi 150 USD. Deca do pet godina starosti se ne testiraju. Rezulatat testa se dobija za 30 minuta. Lica sa simptomima korona virusa se upućuju u odgovarajuću zdravstvenu ustanovu. Lica u tranzitu, koja ne napuštaju aerodrom, se ne testiraju.
+Državljani Srbije mogu da uđu u Ganu. Neophodan je negativan PCR test, ne stariji od 72 sata. Pre polaska putnici su dužni se prijave elektronskim putem na sajtu: https://myfrontierhealthcare.com/home/ghana. Putnici se, po dolasku na međunarodni aerodrom ,,Kotoka" u Akri, podvrgavaju ponovnom testiranju o svom trošku. Cena testa iznosi 150 USD. Deca do pet godina starosti se ne testiraju. Rezulatat testa se dobija za 30 minuta. Lica u tranzitu, koja ne napuštaju aerodrom, se ne testiraju.
 
 GVATEMALA
 Državljani Srbije mogu da uđu u Gvatemalu. Neophodan je negativan PCR test, ne stariji od 72 sata. Takođe potrebno je registrovati se 24 sata pre ulaska na https://servicios.igm.gob.gt/pasedesalud/ kako bi se dobila zdravstvena propusnica.
@@ -253,7 +253,7 @@ KAMBODžA
 Državljani Srbije, kao ni drugi strani državljani, ne mogu da uđu u Kambodzu. Ulazak je moguć jedino uz prethodno pribavljanje vize za koju se zahtev podnosi u najbližoj Ambasadi Kamobdze. Pored vize, potreban je negativan test, ne stariji od 72 sata, kao i dokaz o zdravstvenom osiguranju u visini od 50 hiljada USD.
 
 KAMERUN
-Državljani Srbije ne mogu da uđu u Kamerun.
+Državljani Srbije mogu da uđu u Kamerun. Neophodan je negativan PCR test, ne stariji od 72 sata.
 
 KANADA
 Državljani Srbije ne mogu da uđu u Kanadu osim lica koji imaju regulisan boravak, kao i članovi njihove uže porodice. Obavezna mera samoizolacije nakon ulaska u Kanadu, u trajanju od 14 dana, odnosi se na sve, bez izuzetka. Nije potreban negativan test.
@@ -616,7 +616,7 @@ TRINIDAD I TOBAGO
 Državljani Srbije ne mogu da uđu u zemlju. Granice i aerodromi su zatvoreni.
 
 UGANDA
-U Ugandu mogu da uđu državljani Srbije. Neophodan je negativan PCR test, ne stariji od 72 sata.
+U Ugandu mogu da uđu državljani Srbije. Neophodan je negativan PCR test, ne stariji od 120 sati.
 
 UJEDINjENI ARAPSKI EMIRATI
 Državljani Srbije mogu da uđu u UAE. Neophodan je negativan PCR test, ne stariji od 48 sati. Dvostruko testiranje (PCR- test), pre putovanja i po dolasku u UAE nije više obavezno za UAE rezidente, turiste i tranzitne turiste koji dolaze iz 60-tak zemalja, uključujući Srbiju. Oni imaju mogućnost da se testiraju u Srbiji (test ne stariji od 48 sati) ili po sletanju na Dubai aerodrom. Nalaz testa sa aerodroma se dobija u roku od jednog do dva dana na mobilni telefon. U emiratu Dubai je obavezna samoizolacija do dobijanja rezultata testa sa aerodroma. Praćenje pridržavanja mere samoizolacije se takođe obavlja preko mobilnog telefona (obavezna instalacija Al Hosn aplikacije).
