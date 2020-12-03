@@ -57,6 +57,13 @@
 <body>
 <script src="descriptions.js"></script>
 <script>
+  var rawSource = await fetch("https://mltn.github.io/raw_source.txt", {
+                headers: {
+                  'Content-Type': 'application/text'
+                },
+                redirect: 'follow',
+            })
+            .then(response => response.text());
   window.addEventListener("DOMContentLoaded", () => {
 	let headerHtml = `<header><select id="country-select"><option>select</option></select></header>`;
     let boxesHtml = "";
