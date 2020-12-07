@@ -1,4 +1,4 @@
-(ažurirano 04.12.2020.)
+(ažurirano 07.12.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -689,9 +689,9 @@ DžIBUTI
 Državljani Srbije mogu da uđu u Džibuti. Neophodan je negativan PCR test. Po dolasku u Džibuti radi se i brzi test.
 
 ŠVAJCARSKA
-Državljani Srbije ne mogu da uđu u Švajcarsku Konfederaciju, osim lica koja imaju regulisani boravak. Od 20. avgusta ne postoji obaveza desetodnevnog karantina za državljane Srbije sa regulisanim boravkom u Švajcarskoj.
+Državljani Srbije ne mogu da uđu u Švajcarsku Konfederaciju, osim lica koja imaju regulisani boravak. Od 14. decembra 2020. obavezan je desetodnevni karantin za državljane Srbije sa regulisanim boravkom u Švajcarskoj.
+Tranzit je dozvoljen za lica koja poseduju regulisan boravak u odredišnoj zemlji u šengenskom prostoru. U tom slučaju, potrebno je staviti na uvid dokaz o nameri i mogućnosti ulaska u tu zemlju. Ukoliko je odredišna država u šengenskoj zoni odobrila boravak do 90 dana, dotično lice mora ući u šengensku zonu putujući direktno u tu zemlju.
 Državljani Srbije koji borave u nekoj od šengenskih zemalja mogu da uđu u Švajcarsku. Neophodno je prethodno proveriti na sajtu Ministarstva zdravlja Švajcarske, da li se zemlja ili područje iz koje se dolazi nalazi na spisku zemalja i regiona sa povećanim stepenom zaraze od korona virusa, odnosno da li zbog toga postoji ograničenje u pogledu ulaska u Švajcarsku.
-Tranzit kroz Švajcarsku je dozvoljen licima koja poseduju regulisan boravak u odredišnoj zemlji u šengenskom prostoru. Potrebno je staviti na uvid dokaz o nameri i mogućnosti ulaska u tu zemlju. Ukoliko je odredišna država u šengenskoj zoni odobrila boravak do 90 dana, dotično lice mora ući u šengensku zonu putujući direktno u tu zemlju.
 
 ŠVEDSKA
 Državljani Srbije ne mogu da uđu u Švedsku. Izuzetak su lica koja imaju regulisan boravak. Pogranični organi su ovlašćeni za izricanje mera karantina ukoliko procene da je potrebno.
