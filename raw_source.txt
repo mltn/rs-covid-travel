@@ -1,4 +1,4 @@
-(ažurirano 30.11.2020.)
+(ažurirano 04.12.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -63,8 +63,8 @@ BELIZE
 Državljani Srbije mogu da uđu u Belize. Aerodromi su otvoreni dok prelazak granice drumskim i vodenim putem nije moguć. Neophodan je negativan test (PCR ili serološki), ne stariji od 72 sata. Ukoliko istekne važnost testa, na aerodromu se može uraditi brzi test po ceni od 50 USD. Potrebno je da se preuzme zdravstvena aplikacija 72 sata pre dolaska (https://www.covid19.bz/).
 
 BELORUSIJA
-Državljani Srbije mogu da uđu u Belorusiju isključivo preko aerodroma „Minsk" uz negativan PCR test, ne stariji od 72 sata.
-Ulazak u Belorusiju stranih državljana, uključujući i državljane Srbije, kopnenim, železničkim i rečnim putem privremeno je obustavljen uz izuzetak stranih državljana koji su supružnici, roditelji ili deca beloruskih državljana, stranih državljana sa regulusanim stalnim ili privremenim boravkom i stranih državljana koji poseduju belorusku radnu dozvolu. Državljanima Srbije koji spadaju u navedene kategorije je za ulazak u Belorusiju potreban negativan PCR test, ne stariji od 72 sata. Navedeno ograničenje se ne odnosi na posade teretnih motornih vozila prilikom obavljanja poslova međunarodnog prevoza u drumskom i poštanskom saobraćaju, kao ni na posade brodova i vozova.
+Državljani Srbije mogu da uđu u Belorusiju isključivo preko aerodroma „Minsk" uz obaveznu meru samoizolacije u trajanju od 10 dana, bez obzira na posedovanje negativnog PCR testa. U periodu samoizolacije nije moguće napuštati teritoriju Belorusije.
+Ulazak u Belorusiju stranih državljana, uključujući i državljane Srbije, kopnenim, železničkim i rečnim putem privremeno je obustavljen uz izuzetak stranih državljana koji su supružnici, roditelji ili deca beloruskih državljana, stranih državljana sa regulisanim stalnim ili privremenim boravkom i stranih državljana koji poseduju belorusku radnu dozvolu. Navedeno ograničenje se ne odnosi na posade teretnih motornih vozila prilikom obavljanja poslova međunarodnog prevoza u drumskom i poštanskom saobraćaju, kao ni na posade brodova, aviona i vozova.
 
 BENIN
 Državljani Srbije mogu da uđu u Benin. Po dolasku na aerodromu se obavlja zdravstveni pregled i radi prvi PCR test. Licima bez vidljivih simtoma se određuje samoizolacija. Lica sa vidljivim simptomima se upućuju u Centar za izolaciju i privremeno se oduzima pasoš. Posle 15 dana se radi drugi PCR test. Treći PCR test se radi pre napuštanja Benina. Rezultati testa se dobijaju u roku od 24 do 48 sati. Troškove testiranja snose putnici i isti iznose oko 150 EUR. U slučaju da je posle 15 dana rezulat testa pozitivan, država Benin preuzima dalje lečenje bez naplate troškova.
@@ -401,8 +401,8 @@ MOZAMBIK
 Državljani Srbije ne mogu da uđu u Mozabik osim lica sa regulisanim boravkom. Obavezan je karantin od 14 dana. Moguć je tranzit iz susednih država ali isključivo u slučaju organizovanog leta, odnosno napuštanja zemlje (i regiona) kao i prevoza karga, uz prezentovanje negativnog testa, ne starijeg od 72 sata.
 
 MOLDAVIJA
-Državljani Srbije mogu da uđu u Moldaviju.
-Ukoliko državljani Srbije na teritoriju Moldavije ulaze ili tranzitiraju iz zemalja koje se nalaze u „crvenoj zoni" (Rumunija, Ukrajina, itd), obavezan je karantin u trajanju od 14 dana. Tranzit kroz Moldaviju je moguć, uz prethodnu najavu od strane Ambasade.
+Državljani Srbije, kao ni strani državljani, ne mogu ući u Moldaviju, ukoliko dolaze iz zemalja koje se nalaze u tzv. „crvenoj zoni" (Srbija, Rumunija, Ukrajina), osim ako ne poseduju vizu, dozovolu boravka ili spadaju u grupu izuzetih od zabrane ulaska (detaljnije na sajtu Ambasade Srbije u Bukureštu: http://www.bucharest.mfa.gov.rs).
+Za sva lica koja ulaze na teritoriju Moldavije iz zemalja koje se nalaze u tzv. „crvenoj zoni", a spadaju u grupu izuzetih od zabrane, obavezna je mera samoizolacije u trajanju od 14 dana. Izuzetak predstavljaju: studenti, članovi posada, diplomate, putnici u tranzitu, lica koja pružaju zdravstvenu zaštitu.
 
 MONAKO
 Državljanima Srbije nije dozvoljen ulazak u Monako, osim ukoliko imaju regulisan boravak. Za putnike koji dolaze iz Srbije obavezan je negativan PCR test ne stariji od 72 sata (osim za decu mlađu od 11 godina).
@@ -497,6 +497,7 @@ Državljani Srbije mogu da uđu u Ruandu. Državljani Srbije, kao i svi putnici,
 RUMUNIJA
 Državljani Srbije, kao ni strani državljani, ne mogu ući u Rumuniju, ukoliko nemaju regulisan boravak ili poseduju odgovarajuću vizu.
 U Rumuniju mogu ući lica koja putuju poslovno i prilože dokaze o poslovnoj saradnji sa privrednim subjektima u Rumuniji (pozivno pismo ili ugovor o radu); studenti, prekogranični radnici, sezonski poljoprivredni radnici, medicinsko osoblje, pomorsko i rečno osoblje, članovi međunarodnih sportskih delagacija, filmski radnici i umetnici.
+Za sva lica koja iz Srbije ulaze u Rumuniju, a kojima je dozvoljen ulazak, obavezna je mera samoizolacije u trajanju od 14 dana.
 Tranzit kroz Rumuniju je moguć.
 
 RUSKA FEDERACIJA
