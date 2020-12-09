@@ -1,4 +1,4 @@
-(ažurirano 07.12.2020.)
+(ažurirano 08.12.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -100,8 +100,8 @@ VANUATU
 Svim stranim državljanima, uključujući i državljane Srbije, do daljnjeg je zabranjen ulazak u zemlju.
 
 VELIKA BRITANIJA
-Državljani Srbije mogu ući ili tranzitirati kroz V. Britaniju pod uslovom da imaju validnu vizu. Pri ulasku neophodno je da se popuni formular za praćenje kretanja Passenger Locator Form. Putnici u tranzitu su u obavezi da unapred popune ovaj formular.
-Svi putnici, uključujući i državljane Srbije, ukoliko dolaze iz Srbije ili iz zemalja koje se uz Srbiju ne nalaze na listi sigurnih zemalja a u kojima su do ulaska u V. Britaniji boravili dve nedelje ili kroz koje su tranzitirali, dužni su da budu u samoizolaciji u trajanju od dve nedelje.
+Državljani Srbije mogu ući ili tranzitirati kroz Ujedinjeno Kraljevstvo pod uslovom da imaju validnu vizu. Pri ulasku neophodno je da se elektronskim putem unapred popuni formular za praćenje kretanja - Passenger Locator Form. Putnici u tranzitu, takođe, su u obavezi da unapred popune ovaj formular.
+Svi putnici, uključujući i državljane Srbije, ukoliko dolaze iz Srbije ili iz zemalja koje se uz Srbiju ne nalaze na listi sigurnih zemalja a u kojima su do ulaska u Ujedinjeno Kraljevstvo boravili dve nedelje ili kroz koje su tranzitirali, dužni su da budu u samoizolaciji u trajanju od dve nedelje. Sa početkom važenja od 15. decembra 2020. god. period trajanja dvonedeljne samoizolacije može biti skraćen ukoliko putnici najranije petog dana po dolasku urade test i dobiju negativan rezultat. Testovi se rade o trošku putnika u nekoj od akreditovanih laboratorija. Za putnike koji putuju u Škotsku, Vels i S. Irsku i dalje važi obaveza dvonedeljne samoizolacije bez mogućnosti skraćenja.
 
 VENECUELA
 Državljani Srbije ne mogu da uđu u Venecuelu jer su granice zatvorene za ulazak stranih državljana.
@@ -653,9 +653,10 @@ HAITI
 Državljani Srbije mogu da uđu u Republiku Haiti. Neophodan je negativan test, ne stariji od 72 časa. Kopnena granica sa Dominikanskom Republikom je zatvorena.
 
 HOLANDIJA
-Državljani Srbije ne mogu da ulaze u Holandiju ukoliko nemaju regulisan boravak ili ukoliko ne potpadaju pod neki od izuzetaka od zabrane ulaska u Holandiju. Licima koja potpadaju pod izuzetak od zabrane i koja dolaze iz Srbije nije potreban negativan test ali im se savetuje da budu u kućnom karantinu u trajanju od 14 dana.
-Tranzit srpskih državljana je dozvoljen.
-Dozvoljava se ulazak licima koja imaju neodložnu i hitnu potrebu da posete svoje porodice (neizlečiva bolest ili u slučaju sahrane), osobama kojima je potrebna međunarodna zaštita, osobama koje se primaju iz humanitarnih razloga, studenti, visoko obrazovanim migrantima i osobama koje su u emotivnoj vezi sa holandskim državljanima.
+Državljani Srbije ne mogu da ulaze u Holandiju ukoliko nemaju regulisan boravak ili ukoliko ne potpadaju pod neki od izuzetaka od zabrane ulaska u Holandiju. Licima koja potpadaju pod izuzetak od zabrane putovanja i koja dolaze iz Srbije se savetuje da budu u kućnom karantinu u trajanju od 10 dana.
+Dozvoljava se ulazak licima koja imaju neodložnu i hitnu potrebu da posete svoje porodice (neizlečiva bolest ili u slučaju sahrane), osobama kojima je potrebna međunarodna zaštita, osobama koje se primaju iz humanitarnih razloga, studentima, visoko obrazovanim migrantima i osobama koje su u emotivnoj vezi sa holandskim državljanima.
+Od 15. decembra 2020. godine od 18:00 časova, za pojedine kategorije lica biće neophodno da poseduju negativan test, ne stariji od 72 sata. Potrebno je da to bude molekularni PCR test i test na Sars-Cov-2/COVID-19. Drugi tipovi testa, uključujući brzi test, se ne prihvataju. Navedena odluka se odnosi na osobe (starije od 13 godina) koje dolaze u Holandiju iz neke od zemalja koje nisu uključene na listu EU na kojoj su navedene epidemološki bezbedne zemlje. Obaveza posedovanja negativnog testa se, između ostalih, ne odnosi na lica koja imaju regulisan boravak u Holandiji i EU i lica koja su u tranzitu preko međunarodne zone aerodroma. Dodatne informacije o proceduri ulaska i izuzecima od zabrane putovanja mogu se naći u sledećem linku: https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/travel-and-holidays/visiting-the-netherlands
+Tranzit je dozvoljen.
 
 HONDURAS
 Državljani Srbije mogu da uđu u Honduras. Neophodan je negativan PCR test, ne stariji od 72 sata, ili negativan brzi kovid test. Takođe, potrebno je registrovati se u imigracionom institutu (https://prechequeo.inm.gob.hn/Login).
