@@ -1,4 +1,4 @@
-(ažurirano 21.12.2020.)
+(ažurirano 25.12.2020.)
 
 AZERBEJDžAN
 Državljani Srbije ne mogu da uđu ili tranzitiraju jer su sve granice Azerbejdzana zatvorene za putnički saobraćaj. Državljani Srbije koji u hitnom slučaju treba da putuju u Azerbejdzan treba da podnesu zahtev za vizu u Ambasadi Azerbejdzana u Beogradu.
@@ -23,8 +23,8 @@ ANTIGVA I BARBUDA
 Državljanima Srbije je dozvoljen ulazak i tranzit preko Antigve i Barbude ukoliko poseduju negativan PCR test, ne stariji od sedam dana. Putnici koji dolaze brodovima mogu biti podvrgnuti karantinu ukoliko to procene lučke vlasti. Test nije potreban za decu mlađu od 12 godina.
 
 ARGENTINA
-Državljani Srbije ne mogu ući u Argentinu osim lica koja imaju regulisan boravak u Argentini ili nekoj od pograničnih država, kao i nosioci diplomatskih i službenih pasoša.
-Neophodan je negativan PCR test, ne stariji od 72 sata. Elektronskim putem se daje izjava o odgovornosti da je putnik upoznat sa svim sanitarnim propisima i procedurama u Argentini. Nosioci diplomatskih i službenih pasoša podležu odgovarajućim sanitarnim procedurama, uključujući obavezan karantin od 14 dana.
+Državljani Srbije ne mogu ući u zemlju osim lica koja imaju regulisan boravak u Argentini ili nekoj od pograničnih država, kao i nosioci diplomatskih i službenih pasoša. Uz posebnu prethodnu dozvolu mogu ući i državljani Srbije koji dolaze u Argentinu u diplomatsku misiju, iz poslovnih razloga, na sportsko takmičenje ili radi spajanja porodice. U navedenim slučajevima je potrebna posebna viza, a pomenuta dozvola se dobija posredstvom Ambasade Argentine u Beogradu.
+Državljani Argentine i susednih država, kao i oni koji imaju stalni boravak u Argentini ili nekoj od susednih država, pre ulaska u zemlju moraju imati negativan PCR test, ne stariji od 72 sata. Nosioci diplomatskih i službenih pasoša podležu odgovarajućim sanitarnim procedurama, uključujući obavezan karantin od 14 dana. Takođe se zahteva prethodno slanje elektronskim putem tzv. izjave o odgovornosti da je putnik upoznat sa svim sanitarnim propisima i procedurama u Argentini i dokaz o zdravstvenom osiguranju koje pokriva i bolničke troškove za lečenje od SARS-CoV-2 .
 
 AUSTRALIJA
 Državljani Srbije ne mogu da uđu u zemlju, osim onih lica koja imaju odobren stalni boravak i članova njihove uže porodice. Mogućnost ulaska postoji ako su u pitanju humanitarni ili dovoljno ubedljivi razlozi, uz prethodno pribavljanje dozvole od strane nadležnih organa. Obavezan je karantin od 14 dana. Nije neophodan negativan PCR test. Tranzit je dozvoljen uz posedovanje tranzitne vize (ukoliko je vreme provedeno u tranzitu do 8 sati) i dozvole za izuzeće od obaveznog karantina (ukoliko je vreme provedeno u tranzitu od 8-72 sata).
@@ -56,6 +56,7 @@ BELGIJA
 Državljani Srbije ne mogu da uđu u Belgiju. Ulazak je dozvoljen samo licima koja imaju regulisan boravak u Belgiji i licima koja imaju suštinski razlog za putovanje, uz odgovarajući dokaz o razlogu putovanja (medicinski radnici, visokokvalifikovani radnici čije prisustvo je neophodno, studenti, lica koja putuju iz hitnih porodičnih razloga (spajanje porodice, poseta supružniku ili vanbračnom partneru, poseta u kontekstu zajedničkog roditeljstva, putovanja radi venčanja ili sahrane za prvi ili drugi stepen srodstva i sl.), lica koja dolaze na sastanke koje organizuju međunarodne organizacije i sl). Dozvola se dobija preko Ambasade Belgije u Beogradu.
 Svi putnici imaju obavezu da popune Public Health Passenger Locator Form, 48 sati pre ulaska u Belgiju, osim putnika koji putujy drugim prevoznim sredstvom osim aviona ili broda i zadržaće se u Belgiji kraće od 48 sati. Putnici koji dolaze avionom ili brodom moraju da popune Public Health Passenger Locator Form, bez obzira na to koliko vremena će boraviti u Belgiji. Nakon popunjavanja formulara, putnik će dobiti SMS ili e-mail sa dodatnim informacijama.
 Nakon ulaska u Belgiju obavezna je samoizolacija i testiranje koje se vrši sedmog dana od ulaska. Ukoliko je test negativan, samoizolacija se ukida, a ukoliko je rezultat pozitivan ili se pojave simptomi bolesti, samoizolacija se produžava na još sedam dana. Lice koje u Belgiji boravi kraće od 48 sati, nema obavezu samoizolacije.
+Počev od 25. decembra 2020.g. lica koja nemaju državljanstvo Belgije, odnoso nisu rezidenti Belgije, prilikom ulaska moraju da poseduju negativan PCR test, ne stariji od 48 sati.
 Putnici koji dolaze avionom i dobiju SMS poruku da moraju da se testiraju, to mogu učiniti u Kovid test centru na briselskom aerodromu - https://brusselsairport.ecocare.center/ .
 Lista medicinskih ustanova u K. Belgiji u kojima je moguće uraditi test je dostupna na sledećem linku: https://www.google.com/maps/d/viewer?mid=1cnNOMDS13iosY53TyRBz7SdIeJ7gTShY&ll=50.654111784975065%2C4.393965958984363&z=10 .
 Tranzit je dozvoljen, uz obavezu popunjavanja Public Health Passenger Locator Form. Ukoliko tranzit obuhvata određeno vreme boravka na teritoriji Belgije, lice koje tranzitira, to vreme mora provesti u samoizolaciji. Više informacija je dostupno na https://www.info-coronavirus.be/en/faq/#faq i na https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx, gde se može preuzeti i Public Health Passenger Locator Form.
@@ -81,16 +82,15 @@ BOCVANA
 Državljani Srbije ne mogu da uđu u Bocvanu osim lica sa regulisanim boravkom. Obavezan je 14-dnevni karantin. Tranzit je moguć iz susednih država ali isključivo u slučaju organizovanog repatriacinog leta, odnosno napuštanja zemlje (i regiona), uz prezentovanje negativnog testa, ne starijeg od 72 sata.
 
 BRAZIL
-Državljani Srbije mogu da uđu u Brazil vazdušnim putem.
-Strani državljani ne mogu da uđu u Brazil kopnenim i vodenim putevima.
+Državljani Srbije mogu da uđu u Brazil vazdušnim putem. Obavezan je negativan PCR test, ne stariji od 72 sata. Takođe, popunjava se formular izjave o zdravstvenom stanju.
 
 BRUNEJI DARUSALAM
 Državljani Srbije ne mogu da uđu niti tranzitiraju kroz Bruneje Darusalam osim lica koja imaju stalni boravak. Pre putovanja, potrebno je kontaktirati najbližu Ambasadu Bruneja.
 
 BUGARSKA
 Državljani Srbije mogu ući u Bugarsku bez negativnog PCR testa ako dolaze iz Srbije ili država članica EU ili Šengenskog sporazuma (uključujući San Marino, Andoru, Monako i Vatikan), Australije, Kanade, Gruzije, Japana, Novog Zelanda, Ruande, Republike Koreje, Tajlanda, Tunisa, Urugvaja, Ujedinjenih Arapskih Emirata, Belorusije i Turske. Ako državljanin Srbije dolazi iz zemlje koja nije prethodno navedana, neophodan je negativan PCR test, ne stariji od 72 sata.
-Državljanima Srbije koji dolaze iz Ujedinjenog kraljevstva Velike Britanije i Severne Irske nije dozvoljen ulazak u Bugarsku. Zabrana se ne odnosi na naše državljane koji: 1) u zemlju dolaze letom W64400 sa aerodroma London Gatwick, letom W64532 iz Liverpula i letom W64502 sa aerodroma London Luton; 2) u Bugarskoj imaju odobren stalni, dugoročni ili produženi boravak, kao i članove njihovih porodica. Navedena lica po ulasku u zemlju podležu obavezi karantina u kućnim uslovima u trajanju od 10 dana.
 Državljanima Srbije, koji tranzitiraju preko teritorije Bugarske, bez zadržavanja, nije potreban negativan PCR test, bez obzira iz koje zemlje dolaze. Na ulasku u zemlju, državljanin Srbije ima obavezu da graničnu policiju obavesti da je u tranzitu, kao i o mestu finalne destinacije. Iinformacija o tome se evidentira u jedinstvenom informacionom sistemu kako bi nadležna služba pratila kada je lice napustilo zemlju.
+Licima koja dolaze iz Ujedinjenog kraljevstva Velike Britanije i Severne Irske nije dozvoljen ulazak u Bugarsku. Zabrana se ne odnosi na lica koja u Bugarskoj imaju odobren boravak i članove njihovih porodica. Lica kojima je iz UK dozvoljen ulazak u Bugarsku, a u zemlju stižu vazdušnim putem, podležu brzom antigenskom testu na aerodromu. Ukoliko je rezultat testa negativan, određuje se karantin u kućnim uslovima u trajanju od 10 dana, a ako je rezulat pozitivan – karantin u kućnim uslovima u trajanju od 14 dana.
 
 BURKINA FASO
 Državljani Srbije mogu da uđu u Burkinu Faso. Neophodan je negativan PCR test, ne stariji od pet dana. Svi putnici se upućuju u karantin u trajanju od 14 dana gde sami snose troškove boravka i tretmana. U karantinu se podvrgavaju testiranju prvog, osmog i četrnaestog dana.
@@ -198,7 +198,7 @@ INDONEZIJA
 Državljani Srbije ne mogu da uđu niti tranzitiraju u Indoneziju osim lica koji imaju stalnu (KITAP) ili privremenu boravišnu dozvolu (KITAS). Negativan test na koronu je neophodan. Ukoliko se pri ulasku ne poseduje test, organizuje se testiranje i rezultat se čeka u za to određenim hotelima od strane indonežanskih vlasti. Pre putovanja, potrebno je kontaktirati najbližu ambasadu Indonezije.
 
 IRSKA
-Državljani Srbije mogu da uđu i tranzitiraju kroz Irsku, pod uslovom da imaju validnu vizu. Državljani Srbije, kao i svi ostali putnici, pri ulasku u Irsku imaju obavezu da popune formular Passenger Locator Form. Obavezna je samoizolacija u trajanju od dve nedelje, odnosno nedelju dana ukoliko se osoba o svom trošku podvrgne testiranju a rezultat se pokaže negativnim.
+Državljani Srbije mogu da uđu i tranzitiraju kroz Irsku, pod uslovom da imaju validnu vizu. Državljani Srbije, kao i svi ostali putnici, pri ulasku u Irsku imaju obavezu da popune formular Passenger Locator Form. Obavezna je samoizolacija u trajanju od dve nedelje, odnosno nedelju dana ukoliko se osoba o svom trošku podvrgne testiranju a rezultat se pokaže negativnim. Sve informacije u vezi sa putovanjima u Irsku mogu se naći na internet stranici https://www.gov.ie/en/publication/4f19b-general-covid-19-travel-advisory-in-operation/
 
 IRAK
 Stranim državljanima je zabranjen ulazak u Irak. Izuzetak su diplomate koji moraju da poseduju posebnu dozvolu MSP.
@@ -265,9 +265,8 @@ Kazne za nepoštovanje mera kreću se od usmenih upozorenja do novčane kazne u 
 Tranzit je dozvoljen uz poštovanje viznog režima bez izlaska iz tranzitnog prostora.
 
 KATAR
-Državljani Srbije mogu da uđu u Katar uz prethodno dobijenu dozvolu preko „Qatar Portal". Po dolasku, obavezno je testiranje na aerodomu „Hamad" nakon čega sledi jednonedeljni karantin u hotelu. Majke sa decom do 5 godina, deca do te dobi i hronični bolesnici idu samo u kućni karantin.
-Državljani Srbije mogu u Katar ući bez karantina, ako putuju preko Istanbula, ali je neophodno da pribave negativan test u jednoj od ovlašćenih turskih laboratorija, kao i da provedu u Istanbulu minimalno nedelju dana. Labaratorije su Istanbul University of Health Science-Sultan Suleyman Legal Hospital, Jarrah Pasha Hospital, Pashak Sehir Cham and Sakura Hospital, Kartal Lotfi Kirdar Hospital.
-Svi putnici moraju imati instaliranu aplikaciju „EHTERAZ".
+Državljani Srbije mogu da uđu u Katar uz prethodno dobijenu dozvolu preko „Qatar Portal". Po dolasku, obavezno je testiranje na aerodomu „Hamad" nakon čega sledi jednonedeljni karantin u hotelu. Majke sa decom starosti do 5 godina, kao i hronični bolesnici idu u kućni karantin.
+Svi putnici moraju imati instaliranu aplikaciju „Ehteraz".
 Tranzit preko aerodroma Hamad je dozvoljen.
 
 KENIJA
@@ -319,7 +318,7 @@ KUBA
 Državljani Srbije mogu da uđu na Kubu. Po dolasku na Kubu, na svim međunarodnim aerodromima, putnici se podvrgavaju PCR testu (cena testa 35 evra), nakon čega sledi obavezan karantin na adresi predviđenog boravka, do dobijanja rezultata testa (do 3 dana).
 
 KUVAJT
-Državljani Srbije ne mogu da uđu u Kuvajt, osim lica koja prethodno provedu 14 dana u nekoj od zemalja iz kojih nije zabranjen dolazak. Zabranjen je ulazak iz sledećih zemalja: Jermenija, Bangladeš, Brazil, Bosna i Hercegovina, Čile, Kina, Kolumbija, Dominikanska Republika, Egipat, Hong Kong, Indija, Indonezija, Iran, Irak, Italija, Liban, Meksiko, Moldavija, Crna Gora, Nepal, Severna Makedonija, Panama, Pakistan, Peru, Filipini, Srbija, Singapur, Španija, Šri Lanka i Sirija. Za lica koja mogu da uđu u Kuvajt neophodan je negativan test, ne stariji od 72 sata. Takođe, neophodno je da lica, koja budu izabrana u 10% putnika za ponovno testiranje, prihvate da budu testirani o svom trošku, kao i da prihvate da će snositi troškove eventualnog lečenja u Kuvajtu.
+Državljani Srbije ne mogu da uđu u Kuvajt. Suspendovani su svi letovi u civilnom saobraćaju.
 
 LAOS
 Državljani Srbije ne mogu da uđu u Laos.
@@ -525,8 +524,7 @@ Kad je reč o putovanju u Portoriko, svi putnici pre dolaska na ostrvo moraju po
 Devičanska ostrva SAD (U.S. Virgin Islands) zahtevaju od svih putnika starijih od 5 godina da u roku od pet dana pre puta posredstvom Portala za kontrolu putnika (U.S. Virgin Islands Travel Screening Portal https://usvitravelportal.com/) predaju rezultate testa na COVID-19. Od putnika se traži da poseduju negativan PCR ili antigen (Rapid) test, ne stariji od 5 dana, odnosno pozitivan test na antitela, ne stariji od 4 meseca. Original testa putnik mora imati kod sebe prilikom dolaska. Putnici koji ne poseduju test upućuju se u obavezni 14-dnevni karantin, uz mogućnost da po dolasku na ostrva o svom trošku urade test i, u slučaju da je rezultat testa negativan, prekinu karantin.
 
 SAUDIJSKA ARABIJA
-Državljani Srbije mogu da uđu u Saudijsku Arabiju.
-Za ulazak stranih državljana je neophodna boravišna dozvola (iqama) sa važećom vizom ili neka od sledećih viza: poslovna, radna ili za posetu (business, work or visit visa). Obavezan je negativan PCR test, ne stariji od 72 sata, izdat od laboratorije akreditovane od strane Ministarstva zdravlja Saudijske Arabije. Potrebno je kontaktirati diplomatsko-konzularno predstavništvo Saudijske Arabije za listu laboratorija.
+Državljani Srbije ne mogu da uđu u Saudijsku Arabiju. Sve granice su zatvorene.
 
 SVETA LUCIJA
 Državljanima Srbije je dozvoljen ulazak u zemlju ukoliko poseduju negativan PCR test, ne stariji od sedam dana i popune formular koji se može naći na https://www.stlucia.org/en/covid-19/pre-arrival-form-for-visitors/
@@ -568,11 +566,10 @@ Pre ulaska na teritoriju Slovačke, neophodno je registrovati se elektronski na:
 Moguć je tranzit kroz Slovačku ukoliko se poseduje dozvola za boravak u nekoj od država članica EU. Tranzit može da traje do osam sati. Ostalim licima je neophodna dozvola za tranzit.
 
 SLOVENIJA
-Državljani Srbije ili lica koja imaju boravak u Srbiji, ukoliko ne dolaze iz zemalja koje su na zelenoj listi, mogu ući u Sloveniju uz obavezni karantin od 10 dana ili posedovanje PCR test, ne stariji od 48 sati, urađen u jednoj od zemalja EU ili u Srbiji (spisak institucija iz Srbije čiji testovi se priznaju se mogu naći u sledećem linku: https://www.nlzoh.si/o-nas/novice/46-aktualno/541-novica-73.
-Državljani Srbije mogu ući u Sloveniju bez karantina i negativnog testa u sledećim slučajvima: lice u tranzitu kroz Sloveniju i napušta je najkasnije u roku od 12 sati po ulasku, lice koje prelazi granicu (dnevno ili privremeno) zbog uključenosti u vaspitanje ili obrazovanje ili naučno istraživanje u Sloveniji ili inostranstvu i to dokazuje odgovarajućim dokazima, kao i njegovi roditelji ili druga lica koja ga prevoze i vraćaju se preko granice u roku od 24 sata po ulasku, lice koje prelazi grancu zbog hitnih i neodložnih ličnih obaveza ili hitnih poslovnih razloga i to dokazuje odgovarajućim dokazima i vraća se preko granice u najkraće moguće vreme koje je potrebno za izvršenje obaveze, ali ne duže od 12 sati po prelasku granice (važi i za uže članove porodice lica, ukoliko putuju), lice koje je član strane zvanične delegacije i lice koje je nosioc diplomatske putne isprave, lice koje je dovezeno u Sloveniju spasilačkim ili sanitetskim vozilom, i pratećem zdravstvenom osoblju u tom vozilu, lice koje ima dokaz o planiranom zdravstvenom pregledu ili zahvatu u Sloveniji, drugoj državi Evropske unije ili drugoj državi šengenskog područja i vraća se preko granice odmah po obavljenom zdravstvenom pregledu ili zahvatu, odnosno čim mu zdravstveno stanje to dozvoli (zajedno sa svojim pratiocem, kada je isti zbog zdravstvenog stanja nužno potreban), lice mlađe od 14 godina koje prelazi granicu sa užim članom porodice koji prilaže negativan test, lice koje je radno angažovano u sektoru međunarodnog prevoza za teretni i putnički saobraćaj u tranzitu i napušta Sloveniju u roku od 12 sati po prelasku granice,
-Za tranzit kroz Sloveniju neophodno je posedovanje dokaza o ulasku u državu u koju se lice uputilo (boravišna dozvola, overeno pozivno pismo, rezervacija hotela...) i nije potrebno posedovanje negativnog PCR testa. Tranzit može trajati maksimalno 12 sati.
-Dodatne informacije se mogu naći u sledećem linku:
-https://www.gov.si/teme/koronavirus-sars-cov-2/prehajanje-meja/
+Državljani Srbije ili lica koja imaju boravak u Srbiji, ukoliko ne dolaze iz zemalja koje su na zelenoj listi, mogu ući u Sloveniju uz obavezni karantin od 10 dana ili posedovanje PCR testa, ne starijeg od 24 sata, urađen u jednoj od zemalja EU ili drugih zemalja Šengenskog prostora. Karantin se može prekinuti ukoliko se posle petog dana uradi PCR test i rezultat bude negativan.
+Državljani Srbije mogu ući u Sloveniju bez karantina i negativnog testa u sledećim slučajevima: lice u tranzitu kroz Sloveniju i napušta je najkasnije u roku od 6 sati po ulasku, radni migrant, koji ima boravak u državi Šengenskog prostora, pod uslovom da se vraća u roku od 14 sati od prelaska granice, osoba koja vrši usluge međunarodnog transporta, osoba koja vrši prevoz robe u i iz Slovenije i napušta Sloveniju u roku od 8 sati, predstavnik stranog bezbednosnog organa (policijskog ili pravosudnog) koji vrši službeni zadatak, sa obavezom da odmah nakon izvršenog zadatka napusti Sloveniju, osoba koja je zbog medicinskih razloga došla u Sloveniju sanitetskim vozilom, osobe sa diplomatskim putnim ispravama.
+Za tranzit kroz Sloveniju neophodno je posedovanje dokaza o ulasku u državu u koju se lice uputilo (boravišna dozvola, overeno pozivno pismo, rezervacija hotela...) i nije potrebno posedovanje negativnog PCR testa. Tranzit može trajati maksimalno šest sati.
+Dodatne informacije se mogu naći u sledećem linku: https://www.gov.si/novice/2020-12-23-149-dopisna-seja-vlade-republike-slovenije/
 
 SOLOMONOVA OSTRVA
 Svim stranim državljanima, uključujući i državljane Srbije, do daljnjeg je zabranjen ulazak na Solomonova ostrva. Izuzeta su lica sa specijalnim odobrenjem nadležnih organa koja moraju da poseduju dupli negativan PCR test (ne stariji od 7 i 2 dana pre putovanja). Takođe, obavezan je karantin od 14 dana.
@@ -633,7 +630,7 @@ Postoji obaveza samoizolacije za sva lica koja dolaze u Ukrajinu iz zemalja sa z
 Ulazak i izlazak sa teritorije Donjecka, Luganska, Krima i Sevastopolja podrazumeva da strani državljani poseduju polisu zdravstvenog osiguranja na troškove lečenja od COVID-19.
 
 URUGVAJ
-Državljani Srbije ne mogu ući u Urugvaj. Izuzetak su lica koja imaju regulisan boravak i nosioci diplomatskih i službenih pasoša. Neophodan je negativan PCR test, ne stariji od 72 sata. Za lica koja ulaze vazdušnim putem obavezan je karantin od 7 dana, nakon čega se vrši novo testiranje, a za ulazak kopnenim putem predviđen je karantin od 14 dana. Takođe se zahteva prethodno slanje elektronskim putem tzv. izjave o odgovornosti da je putnik upoznat sa svim sanitarnim propisima i procedurama u Urugvaju.
+Državljani Srbije ne mogu ući u Urugvaj. Do daljnjeg, ne mogu ući u zemlju ni državljani Urugvaja ni strani državljani.
 
 FILIPINI
 Državljani Srbije ne mogu da uđu niti tranzitiraju na Filipine osim supružnika i dece filipinskih državljana i nosioca boravišne dozvole. Prilikom dolaska podleže se medicinskoj evaluaciji i vrsti karantina koji bude određen. Pre putovanja, potrebno je kontaktirati najbližu ambasadu Filipina.
@@ -656,9 +653,11 @@ Državljani Srbije mogu da uđu u Republiku Haiti. Neophodan je negativan test, 
 
 HOLANDIJA
 Državljani Srbije ne mogu da ulaze u Holandiju ukoliko nemaju regulisan boravak ili ukoliko ne potpadaju pod neki od izuzetaka od zabrane ulaska u Holandiju. Licima koja potpadaju pod izuzetak od zabrane putovanja i koja dolaze iz Srbije se savetuje da budu u kućnom karantinu u trajanju od 10 dana.
-Dozvoljava se ulazak licima koja imaju neodložnu i hitnu potrebu da posete svoje porodice (neizlečiva bolest ili u slučaju sahrane), osobama kojima je potrebna međunarodna zaštita, osobama koje se primaju iz humanitarnih razloga, studentima, visoko obrazovanim migrantima i osobama koje su u emotivnoj vezi sa holandskim državljanima.
-Od 15. decembra 2020. godine od 18:00 časova, za pojedine kategorije lica biće neophodno da poseduju negativan test, ne stariji od 72 sata. Potrebno je da to bude molekularni PCR test i test na Sars-Cov-2/COVID-19. Drugi tipovi testa, uključujući brzi test, se ne prihvataju. Navedena odluka se odnosi na osobe (starije od 13 godina) koje dolaze u Holandiju iz neke od zemalja koje nisu uključene na listu EU na kojoj su navedene epidemološki bezbedne zemlje. Obaveza posedovanja negativnog testa se, između ostalih, ne odnosi na lica koja imaju regulisan boravak u Holandiji i EU i lica koja su u tranzitu preko međunarodne zone aerodroma. Dodatne informacije o proceduri ulaska i izuzecima od zabrane putovanja mogu se naći u sledećem linku: https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/travel-and-holidays/visiting-the-netherlands
 Tranzit je dozvoljen.
+Dozvoljava se ulazak licima koja imaju neodložnu i hitnu potrebu da posete svoje porodice (neizlečiva bolest ili u slučaju sahrane), osobama kojima je potrebna međunarodna zaštita, osobama koje se primaju iz humanitarnih razloga, studentima, visoko obrazovanim migrantima i osobama koje su u emotivnoj vezi sa holandskim državljanima.
+Od 29. decembra 2020. godine lica koja dolaze avionom u Holandiju moraju da poseduju negativan test, ne stariji od 72 sata. Potrebno je da to bude molekularni PCR test i test na Sars-Cov-2/COVID-19. Drugi tipovi testa, uključujući brzi test, se ne prihvataju. Navedena odluka se odnosi na sve osobe (starije od 13 godina) koje dolaze avionom u Holandiju iz oblasti koje su definisane kao visoko rizične po pitanju širenja virusa, što trenutno obuhvata gotovo sve zemlje Evrope i sveta. Negativan test je obavezan i za holandske državljane i državljane EU, a odnosi se i na putovanja izvan teritorije EU u Holandiju, kao i na putovanja iz ostalih država EU u Holandiju.
+Odluka o obavezi posedovanja negativnog testa se ne odnosi na ulazak u Holandiju kopnenim putem.
+Dodatne informacije o proceduri ulaska i izuzecima od zabrane putovanja mogu se naži u sledežem linku: https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/travel-and-holidays/visiting-the-netherlands
 
 HONDURAS
 Državljani Srbije mogu da uđu u Honduras. Neophodan je negativan PCR test, ne stariji od 72 sata, ili negativan brzi kovid test. Takođe, potrebno je registrovati se u imigracionom institutu (https://prechequeo.inm.gob.hn/Login).
@@ -673,7 +672,9 @@ CENTRALNOAFRIČKA REPUBLIKA
 Državljani Srbije mogu sa važećom vizom da uđu u Centralnoafričku Republiku ili tranzitiraju. Nije potrebno testiranje.
 
 CRNA GORA
-Državljani Srbije mogu ući u Crnu Goru uz posedovanje jednog od sledećih testova: (1) negativan PCR test, ne stariji od 72 sata, ili (2) pozitivan rezultat serološkog testa - antitela klase IgG, ne stariji od 30 dana, ili (3) negativan rezultat serološkog testa na atitela klase IgM (ELISA), ne stariji od 72 sata. Test mora da bude izdat od strane registrovane laboratorije. Takođe, pored jednog od navedena tri testa, neophodno je da lice u periodu od 15 dana pre ulaska u Crnu Goru nije boravilo u nekoj od država iz kojih nije dozvoljen ulazak u Crnu Goru. Obaveza posedovanja testa ne odnosi se na decu do navršene pete godine života. Detalji u vezi sa ulaskom stranih državljana u Crnu Goru se mogu naći u sledećem linku: http://www.gov.me/naslovna/mjere_i_preporuke/
+Državljani Srbije mogu ući u Crnu Goru uz posedovanje negativanog PCR testa na SARS-COV-2, ne stariji od 72 sata. Obaveza posedovanja testa ne odnosi se na decu do navršene pete godine života.
+Omogućen je tranzit rezidenata susednih država kroz Crnu Goru (tranzit rezidenata BiH, Srbije i Albanije). Tranzit se omogućava bez zadržavanja u Crnoj Gori uz kontrolu vremena ulaska i izlaska iz Crne Gore.
+Detalji u vezi sa ulaskom stranih državljana u Crnu Goru se mogu naći u sledećem linku:https://www.gov.me/naslovna
 
 ČAD
 Državljani Srbije ne mogu da uđu u zemlju. Granice i aerodromi su zatvoreni.
@@ -684,8 +685,7 @@ Sva lica koja su u prethodnih 14 dana provela više od 12 sati u nekoj od zemalj
 
 ČILE
 Državljani Srbije mogu ući u Čile.
-Strani državljani koji nemaju stalni boravak u Čileu mogu ući u zemlju vazdušnim putem sa sletanjem isključivo na međunarodni aerodrom Arturo Merino Benitez u blizini Santjaga. Uslov za ukrcavanje u avion je negativan PCR test, ne stariji od 72 sata. Obavezno je zdravstveno osiguranje kojim je pokriveno i lečenje od COVID-19. Prilikom sletanja u Čile popunjavaju se odgovarajući formulari, uključujući tzv. formular o praćenju kretanja, čiji sadržaj se može naći na sledećoj veb stranici
-https://www.c19.cl/formularios.html. Strani državljani koji dolaze iz zemalja koje se, u datom trenutku, nalaze u kategoriji „Community Transmission" na listi Svetske zdravstvene organizacije (https://covid19.who.int/table), podležu obaveznom karantinu od 14 dana.
+Strani državljani koji nemaju stalni boravak u Čileu mogu ući u zemlju vazdušnim putem sa sletanjem isključivo na međunarodni aerodrom Arturo Merino Benitez u blizini Santjaga. Uslov za ukrcavanje u avion je negativan PCR test, ne stariji od 72 sata. Obavezno je zdravstveno osiguranje kojim je pokriveno i lečenje od COVID-19 i koje nije ispod vrednosti od 30.000 američkih dolara. Prilikom sletanja u Čile popunjavaju se odgovarajući formulari, uključujući tzv. formular o praćenju kretanja, čiji sadržaj se može naći na sledećoj veb stranici https://www.c19.cl/formularios.html. Strani državljani koji dolaze iz zemalja koje se, u datom trenutku, nalaze u kategoriji „Community Transmission" na listi Svetske zdravstvene organizacije (https://covid19.who.int/table), podležu obaveznom karantinu od 14 dana.
 Državljani Čilea kao i strani državljani koji imaju stalni boravak podležu obaveznom karantinu od 14 dana, samo ukoliko nisu uradili testiranje pre puta ili po dolasku u Čile.
 
 DžIBUTI
