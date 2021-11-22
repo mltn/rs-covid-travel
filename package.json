@@ -1,0 +1,27 @@
+{
+  "name": "rs-covid-travel",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mltn/rs-covid-travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mltn/rs-covid-travel/issues"
+  },
+  "homepage": "https://github.com/mltn/rs-covid-travel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "jsdom": "^18.1.1",
+    "node-fetch": "^2.6.6",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2"
+  }
+}

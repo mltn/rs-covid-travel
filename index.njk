@@ -1,0 +1,12 @@
+{% extends "./page.njk" %}
+
+{% block main %}
+
+    {% for country in countries %}
+        <div>
+            <strong>{{country.title}}</strong>
+            <div>{{country.info}}</div>
+        </div>
+    {% endfor %}
+  
+{% endblock %}

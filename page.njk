@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sr">
+  <head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }} - SEE Digital Rights Network</title>
+    {% block stylesheets %}
+    {% endblock %}
+		<link rel="stylesheet" href="/style.css">
+    <link rel="icon" type="image/png" href="https://seedigitalrights.network/images/Favicon.png">			  
+		<meta property="og:title" content="{{ title }}">
+		<meta property="og:description" content="SEE Digital Rigths Network">
+    <meta property="og:type" content="website" />
+		<meta property="og:image" content="https://seedigitalrights.network/images/Facebook.png">
+		<meta property="og:url" content="https://seedigitalrights.network/">
+		<meta property="twitter:image" content="https://seedigitalrights.network/images/Twitter.png">
+		<meta property="twitter:url" content="https://seedigitalrights.network/">
+		<meta name="twitter:card" content="summary_large_image">
+	<script>
+      window.addEventListener("DOMContentLoaded", () => {
+        
+      });
+    </script>
+  </head>
+  <body id="{{title}}">
+    {% include "./navbar.njk" %}
+    <div class="main-wrapper">
+      <main>
+        {% block main %}
+        {% endblock %}
+      </main>
+    </div>
+    {% include "./footer.njk" %}
+  </body>
+</html>
